@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\bin\Debug\net8.0\UsoCuent.exe
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\bin\Debug\net8.0\UsoCuent.deps.json
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\bin\Debug\net8.0\UsoCuent.runtimeconfig.json
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\bin\Debug\net8.0\UsoCuent.dll
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\bin\Debug\net8.0\UsoCuent.pdb
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.dll
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\refint\UsoCuent.dll
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.pdb
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\UsoCuent.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\UsoCuent\UsoCuent\obj\Debug\net8.0\ref\UsoCuent.dll

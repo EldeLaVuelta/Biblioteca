@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUDUSUARIO2.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\velocidad\velocidad\bin\Debug\net8.0\velocidad.exe
+C:\Users\Usuario\source\repos\velocidad\velocidad\bin\Debug\net8.0\velocidad.deps.json
+C:\Users\Usuario\source\repos\velocidad\velocidad\bin\Debug\net8.0\velocidad.runtimeconfig.json
+C:\Users\Usuario\source\repos\velocidad\velocidad\bin\Debug\net8.0\velocidad.dll
+C:\Users\Usuario\source\repos\velocidad\velocidad\bin\Debug\net8.0\velocidad.pdb
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.dll
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\refint\velocidad.dll
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.pdb
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\velocidad.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\velocidad\velocidad\obj\Debug\net8.0\ref\velocidad.dll

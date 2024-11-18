@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\UsoCuent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E613A1-13C4-4DBE-BFE0-BE615F56A31B}|UsoCuent\\UsoCuent.csproj|c:\\users\\usuario\\source\\repos\\usocuent\\usocuent\\cuentacorrient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E613A1-13C4-4DBE-BFE0-BE615F56A31B}|UsoCuent\\UsoCuent.csproj|solutionrelative:usocuent\\cuentacorrient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E613A1-13C4-4DBE-BFE0-BE615F56A31B}|UsoCuent\\UsoCuent.csproj|c:\\users\\usuario\\source\\repos\\usocuent\\usocuent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E613A1-13C4-4DBE-BFE0-BE615F56A31B}|UsoCuent\\UsoCuent.csproj|solutionrelative:usocuent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\UsoCuent\\UsoCuent\\program.cs",
+              "RelativeDocumentMoniker": "UsoCuent\\program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\UsoCuent\\UsoCuent\\program.cs",
+              "RelativeToolTip": "UsoCuent\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:04:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaCorrient.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\UsoCuent\\UsoCuent\\CuentaCorrient.cs",
+              "RelativeDocumentMoniker": "UsoCuent\\CuentaCorrient.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\UsoCuent\\UsoCuent\\CuentaCorrient.cs",
+              "RelativeToolTip": "UsoCuent\\CuentaCorrient.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:12:10.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

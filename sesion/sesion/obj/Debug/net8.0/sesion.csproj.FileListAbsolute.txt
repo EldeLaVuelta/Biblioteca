@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\sesion\sesion\bin\Debug\net8.0\sesion.exe
+C:\Users\Usuario\source\repos\sesion\sesion\bin\Debug\net8.0\sesion.deps.json
+C:\Users\Usuario\source\repos\sesion\sesion\bin\Debug\net8.0\sesion.runtimeconfig.json
+C:\Users\Usuario\source\repos\sesion\sesion\bin\Debug\net8.0\sesion.dll
+C:\Users\Usuario\source\repos\sesion\sesion\bin\Debug\net8.0\sesion.pdb
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.dll
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\refint\sesion.dll
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.pdb
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\sesion.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\sesion\sesion\obj\Debug\net8.0\ref\sesion.dll

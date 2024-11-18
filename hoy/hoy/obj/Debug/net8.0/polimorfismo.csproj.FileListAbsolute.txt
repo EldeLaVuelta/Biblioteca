@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\hoy\hoy\obj\Debug\net8.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\hoy\hoy\obj\Debug\net8.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\hoy\hoy\obj\Debug\net8.0\polimorfismo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\hoy\hoy\obj\Debug\net8.0\polimorfismo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\fabric\fabric\bin\Debug\net8.0\fabric.exe
+C:\Users\Usuario\source\repos\fabric\fabric\bin\Debug\net8.0\fabric.deps.json
+C:\Users\Usuario\source\repos\fabric\fabric\bin\Debug\net8.0\fabric.runtimeconfig.json
+C:\Users\Usuario\source\repos\fabric\fabric\bin\Debug\net8.0\fabric.dll
+C:\Users\Usuario\source\repos\fabric\fabric\bin\Debug\net8.0\fabric.pdb
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.dll
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\refint\fabric.dll
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.pdb
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\fabric.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\fabric\fabric\obj\Debug\net8.0\ref\fabric.dll

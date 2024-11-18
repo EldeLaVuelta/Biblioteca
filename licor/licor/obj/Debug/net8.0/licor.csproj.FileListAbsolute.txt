@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\licor\licor\bin\Debug\net8.0\licor.exe
+C:\Users\Usuario\source\repos\licor\licor\bin\Debug\net8.0\licor.deps.json
+C:\Users\Usuario\source\repos\licor\licor\bin\Debug\net8.0\licor.runtimeconfig.json
+C:\Users\Usuario\source\repos\licor\licor\bin\Debug\net8.0\licor.dll
+C:\Users\Usuario\source\repos\licor\licor\bin\Debug\net8.0\licor.pdb
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.dll
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\refint\licor.dll
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.pdb
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\licor.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\licor\licor\obj\Debug\net8.0\ref\licor.dll

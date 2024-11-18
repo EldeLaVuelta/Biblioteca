@@ -1,0 +1,30 @@
+﻿@model CRUDUSUARIOS2.Models.LibrosAutor
+
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+<h1>Detalle autor de libro</h1>
+
+<div>
+    <h4>Autores de libros</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdAutorNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdAutorNavigation.IdAutor)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IsbnNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsbnNavigation.Isbn)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Editar</a> |
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</div>

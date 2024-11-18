@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\hoy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|c:\\users\\usuario\\source\\repos\\hoy\\hoy\\vendedoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|solutionrelative:hoy\\vendedoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|c:\\users\\usuario\\source\\repos\\hoy\\hoy\\vendedort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|solutionrelative:hoy\\vendedort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|c:\\users\\usuario\\source\\repos\\hoy\\hoy\\vendedorf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|solutionrelative:hoy\\vendedorf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|c:\\users\\usuario\\source\\repos\\hoy\\hoy\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|solutionrelative:hoy\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|c:\\users\\usuario\\source\\repos\\hoy\\hoy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA92731D-350C-41B4-8BD0-E294A52843BD}|hoy\\polimorfismo.csproj|solutionrelative:hoy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\program.cs",
+              "RelativeDocumentMoniker": "hoy\\program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\program.cs",
+              "RelativeToolTip": "hoy\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:31:37.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedor.cs",
+              "RelativeDocumentMoniker": "hoy\\vendedor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedor.cs",
+              "RelativeToolTip": "hoy\\vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:11:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vendedorF.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorF.cs",
+              "RelativeDocumentMoniker": "hoy\\vendedorF.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorF.cs",
+              "RelativeToolTip": "hoy\\vendedorF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:06:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vendedorT.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorT.cs",
+              "RelativeDocumentMoniker": "hoy\\vendedorT.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorT.cs",
+              "RelativeToolTip": "hoy\\vendedorT.cs",
+              "ViewState": "AgIAAAEAAAA+MzMzM/MmwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:09:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vendedorO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorO.cs",
+              "RelativeDocumentMoniker": "hoy\\vendedorO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\hoy\\hoy\\vendedorO.cs",
+              "RelativeToolTip": "hoy\\vendedorO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:31:48.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

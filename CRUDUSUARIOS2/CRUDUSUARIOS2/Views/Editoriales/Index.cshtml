@@ -1,0 +1,260 @@
+﻿@model IEnumerable<CRUDUSUARIOS2.Models.Editoriale>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+
+
+@{
+    ViewData["Title"] = "Editoriales";
+}
+
+<h1>Gestión de editoriales</h1>
+
+<style>
+    .botonCopiar {
+        background-color: darkgray;
+    }
+
+    .botonCsv {
+        background-color: darkgray;
+    }
+
+    .botonExcel {
+        background-color: darkgray;
+    }
+
+    .botonPdf {
+        background-color: darkgray;
+    }
+
+    .botonPrint {
+        background-color: darkgray;
+    }
+
+    .botonColvis {
+        background-color: darkgray;
+    }
+
+    .botonNuevaEditorial {
+        background-color: gray;
+        color: white;
+        padding: 8px 16px;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+        .botonNuevaEditorial:hover {
+            background-color: darkgray;
+        }
+
+    .botonAccion {
+        background-color: #007bff;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 14px;
+    }
+
+        .botonAccion:hover {
+            background-color: #0056b3;
+        }
+
+    .botonEliminar {
+        background-color: red;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+        .botonEliminar:hover {
+            background-color: darkred;
+        }
+
+    .botonDetalles {
+        background-color: #28a745;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+        .botonDetalles:hover {
+            background-color: #218838;
+        }
+
+    .botonEditar {
+        background-color: #ffc107;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+        .botonEditar:hover {
+            background-color: #e0a800;
+        }
+</style>
+
+<p>
+    <a asp-action="Create" class="botonNuevaEditorial">Crear nueva editorial</a>
+</p>
+
+<div class="tabla-container">
+    <table class="table" id="example">
+        <thead>
+            <tr>
+                <th>
+                    <a asp-action="Índice" asp-route-filtro="@ViewData["FiltroNombres"]">
+                        @Html.DisplayNameFor(model => model.Nombres)
+                    </a>
+                    
+                </th>
+                <th>
+                    <a asp-action="Índice" asp-route-filtro="@ViewData["FiltroTelefono"]">
+                        @Html.DisplayNameFor(model => model.Telefono)
+                    </a>
+                    
+                </th>
+                <th>
+                    <a asp-action="Índice" asp-route-filtro="@ViewData["FiltroDireccion"]">
+                        @Html.DisplayNameFor(model => model.Direccion)
+                    </a>
+                    
+                </th>
+                <th>
+                    <a asp-action="Índice" asp-route-filtro="@ViewData["FiltroEmail"]">
+                        @Html.DisplayNameFor(model => model.Email)
+                    </a>
+                    
+                </th>
+                <th>
+                    <a asp-action="Índice" asp-route-filtro="@ViewData["FiltroSitioWeb"]">
+                        @Html.DisplayNameFor(model => model.Sitioweb)
+                    </a>
+                    
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombres)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Telefono)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Direccion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Sitioweb)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Nit" class="botonEditar">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.Nit" class="botonDetalles">Detalles</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Nit" class="botonEliminar">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<style>
+    .tabla-container {
+        width: 90%;
+        margin: 0 auto;
+        overflow-x: auto;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+</style>
+
+
+<script>
+    new DataTable('#example', {
+        layout: {
+            topStart: {
+                buttons: [
+                    {
+                        extend:  'copy',
+                        text: 'Copiar',
+                        className:  'botonCopiar btn'
+                    },
+                        {
+                        extend:  'csv',
+                        text:  'CSV',
+                        className:  'botonCsv btn'
+                    },
+                        {
+                        extend:  'excel',
+                        text: 'Excel',
+                        className:  'botonExcel btn'
+                    },
+                        {
+                        extend:  'pdfHtml5',
+                        text:  'PDF',
+                        className:  'botonPdf btn',
+                        customize: function (doc) {
+                            doc.content[1].table.body.forEach(function (row) {
+                                row.pop();
+                            });
+                            doc.styles.tableHeader = {
+                                alignment: 'center',
+                                bold: true
+                            };
+                            doc.styles.tableBody = {
+                                alignment: 'center'
+                        };
+                            doc .content[1].table.widths = ['*', '*', '*'];
+                        }
+                        },
+                    {
+                        extend: 'print',
+                        text: 'Imprimir',
+                        className: 'botonPrint btn',
+                         customize: function (win) {
+                            $(win.document.body).find('table').find('th:last-child, td:last-child').remove();
+                        }
+                     },
+                    {
+                        extend: 'colvis',
+                        text: 'Filtrar',
+                        className: 'botonColvis btn'
+                    }
+                    ]
+                }
+            },
+            languaje: {
+                url: '//cdn.datatables.net/plug-ins/2.0.2/i18n/es-ES.json'
+            },
+
+            scrollX: true,
+            initComplete: function (json, settings) {
+                $(".dt-buttons").removeClass("dt-buttons");
+                $(".dt-button").addClass("botones");
+            }
+        });
+</script>
+
